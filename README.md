@@ -9,7 +9,7 @@
 1. ESP8266
 <img src="ref/ESP8255-DevKitC.JPG" width="500">
 2. Breadboard (170 holes)
-<img src="ref/BreadBoard170Holes.pdf" width="500">
+<img src="ref/BreadBoard170Holes.JPG" width="500">
 3. DHT22
 <img src="ref/DHT22.JPG" width="500">
 4. Relay Module 5v 1 Channel
@@ -18,5 +18,6 @@
 <img src="ref/LED5mm.JPG" width="500">
 6. DC POWER JACK
 <img src="ref/DC-POWER-JACK.png" width="500">
+<img src="ref/DC-POWER-JACK-DATASHEET.JPG" width="500">
 7. Push Switch
 <img src="ref/PushButtonSwitch-A16-A.JPG" width="500">
